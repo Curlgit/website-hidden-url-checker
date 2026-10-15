@@ -1,17 +1,16 @@
-# Website Hidden Information Checker (WHIC)
+# website-hidden-url-checker
 
 A Python-based website reconnaissance and information inspection tool.
 
 Website Hidden Information Checker (WHIC) helps users inspect configured website paths and review HTTP response information for authorized website administration and defensive security testing.
 
-Features
-
-- Inspect configured website paths.
-- Display HTTP response status codes.
-- Identify responses such as "200 OK", "401 Unauthorized", and "403 Forbidden".
-- Display request errors and unreachable-path results.
-- Provide readable terminal output.
-- Support compatible Python environments, including Termux and Linux.
+**Features
+ Inspect configured website paths.Display 
+ HTTP response status codes.
+ Identify responses such as "200 OK", "401 Unauthorized", and "403 Forbidden".
+ Display request errors and unreachable-path results.
+-Provide readable terminal output.
+ Support compatible Python environments, including Termux and Linux**
 
 «Note: An HTTP status code alone does not confirm that a path is an admin panel, that sensitive information is exposed, or that a vulnerability exists.»
 
@@ -26,11 +25,11 @@ Installation
 
 Clone the repository:
 ```bash
-git clone https://github.com/UG-ALOK/website-hidden-information-checker.git
+git clone https://github.com/Curlgit/website-hidden-url-checker.git
 ```
 Open the project directory:
 ```bash
-cd website-hidden-information-checker
+cd website-hidden-url-checker
 ```
 For Termux, install the required system packages:
 ```bash
