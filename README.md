@@ -25,7 +25,7 @@ Installation
 
 Clone the repository:
 ```bash
-git clone https://github.com/git/website-hidden-url-checker.git
+git clone https://github.com/Curlgit/website-hidden-url-checker.git
 ```
 Open the project directory:
 ```bash
